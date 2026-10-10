@@ -39,8 +39,8 @@ Program ini dibangun menggunakan **Java Standard Library (JDK)** murni.
 
 Berikut adalah tampilan dari program saat dijalankan:
 
-![Screenshot Output Program](output/Menu1.png.png)
-![Screenshot Output Program](output/Menu2.png.png)
-![Screenshot Output Program](output/Menu3.png.png)
-![Screenshot Output Program](output/Menu4.png.png)
-![Screenshot Output Program](output/Menu5.png.png)
+![Screenshot Output Program](output/Menu1.png)
+![Screenshot Output Program](output/Menu2.png)
+![Screenshot Output Program](output/Menu3.png)
+![Screenshot Output Program](output/Menu4.png)
+![Screenshot Output Program](output/Menu5.png)
